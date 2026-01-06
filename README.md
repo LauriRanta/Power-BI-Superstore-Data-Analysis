@@ -4,6 +4,9 @@ The dashboard specifically aims to monitor the health of superstore sales in the
 
 From the charts we can identify an upwards trend regarding sales during the almost four-year period. Using linear regression, I calculated the approximate growth rate per month, which is $902.01 / month.
 
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/9e1f28cf-7cb9-4fbe-8772-793bb4de8c4b" />
+
+
 Below I have provided a youtube video link, where you can see how the interactive interface works.
 
 https://youtu.be/ONOJPnd1PzE
