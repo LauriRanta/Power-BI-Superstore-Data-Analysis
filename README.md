@@ -7,3 +7,7 @@ From the charts we can identify an upwards trend regarding sales during the almo
 Below I have provided a youtube video link, where you can see how the interactive interface works.
 
 https://youtu.be/ONOJPnd1PzE
+
+The data sample is from
+
+https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
