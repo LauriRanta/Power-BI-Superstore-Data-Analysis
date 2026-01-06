@@ -1,8 +1,8 @@
 # Power-BI-Superstore-Data-Analysis
-The objective of this project was to inspect a superstore sample from US and transform it into easier way of understanding the data, of course compiling it into a chart-like format. 
-The dashboard specifically aims to monitor the health of superstore sales in these years and provide an immediate “at-a-glance” view of the financial health, which we can see from the total sales and profit margin.
+The objective of this project was to analyze a US-based Superstore dataset found from https://community.tableau.com/ , and transform data into an interactive dashboard with more information for example in sub-categories reagarding specific items.
+The dashboard specifically aims to monitor the health of superstore sales in these years and provide an immediate “at-a-glance” view of the financial health, which we can see from the total sales and profit margin (KPI's).
 
-From the charts we can identify an upwards trend regarding sales during the almost four-year period. Using linear regression, I calculated the approximate growth rate per month, which is $902.01 / month.
+From the charts we can see that the four-year-period reveals a consistent upward trend in revenue. To quantify this performance, I utilized linear regression to calculate the monthly growth velocity, which is an average incremental increase of $902.01 per month.
 
 <img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/9e1f28cf-7cb9-4fbe-8772-793bb4de8c4b" />
 
